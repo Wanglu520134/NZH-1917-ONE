@@ -1,0 +1,17 @@
+{
+  "name": "nz1917",
+  "version": "1.0.0",
+  "description": "My impeccable Nuxt.js project",
+  "author": "Wanglu520134",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.11.0"
+  },
+  "devDependencies": {}
+}
